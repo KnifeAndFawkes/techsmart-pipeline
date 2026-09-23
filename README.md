@@ -3,9 +3,9 @@
 ![Teaching](https://img.shields.io/badge/module-DE5M4-blue)
 ![Python Version](https://img.shields.io/badge/python-3.9--3.12-blue.svg)
 
-![CI Pipeline](https://github.com/KnifeAndFawkes/Day3/actions/workflows/ci.yml/badge.svg)
-![Lint](https://github.com/KnifeAndFawkes/Day3/actions/workflows/lint.yml/badge.svg)
-![Last Commit](https://img.shields.io/github/last-commit/KnifeAndFawkes/Day3)
+![CI Pipeline](https://github.com/KnifeAndFawkes/techsmart-pipeline/actions/workflows/ci.yml/badge.svg)
+![Lint](https://github.com/KnifeAndFawkes/techsmart-pipeline/actions/workflows/lint.yml/badge.svg)
+![Last Commit](https://img.shields.io/github/last-commit/KnifeAndFawkes/techsmart-pipeline)
 
 <mark>*Replace `YOUR_USERNAME/YOUR_REPO` with your details*</mark>
 
